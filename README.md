@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rcoop120
-- 👀 I’m interested in the automotive industry.
-- 🌱 I’m currently learning about blockchain implications for remitance in the salesperson stucture in the modern dealership.
-- 💞️ I’m looking to collaborate on life.
+- 👀 I’m interested in agents starting and running small buisnesses
 - 📫 How to reach me ...
 
 <!---
